@@ -31,4 +31,4 @@ destination dataset/table, and run the cells in order.
 
 ## License
 
-Released under the [AGPL-3.0](LICENSE) license.
+Released under the [GPL-3.0](LICENSE) license.
